@@ -1,6 +1,6 @@
 <h1 align="center">❤️SaYu BoT 𝘔𝘋 V2❤️<br></h1>
 <p align="center">
-<img src="https://i.ibb.co/NpXYnCh/Whats-App-Image-2022-10-10-at-10-37-16.jpg"
+<img src="https://telegra.ph/file/73a5cd6ace5384be642c1.jpg"
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy) 
 
