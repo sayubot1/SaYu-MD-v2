@@ -9,7 +9,7 @@
 
 1. Click [SCAN](https://replit.com/@RavishkaSathsar/SaYu-BoT-MD-QR#) and scan QR through Whatsapp Linked Devices Option in Your WhatsApp App.
 
-2. Click [FORK](https://github.com/Kaveeshasithum/DARK-NERO-BOT-MD-/fork)
+2. Click [FORK](https://github.com/sayubot1/SaYu-MD-v2/fork)
 
 2. After That Upload Session.json File
 
