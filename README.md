@@ -7,7 +7,7 @@
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Kaveesha2006/DARK-BOT-QR#)
 <img src="https://fontmeme.com/permalink/220116/0c42dc0b64931810388ba399da55e927.png" alt="backwoods-logo-font" border="0"></a>  
 
-1. Click [SCAN](https://replit.com/@Kaveesha2006/DARK-BOT-QR#) and scan QR through Whatsapp Linked Devices Option in Your WhatsApp App.
+1. Click [SCAN](https://replit.com/@RavishkaSathsar/SaYu-BoT-MD-QR#) and scan QR through Whatsapp Linked Devices Option in Your WhatsApp App.
 
 2. Click [FORK](https://github.com/Kaveeshasithum/DARK-NERO-BOT-MD-/fork)
 
